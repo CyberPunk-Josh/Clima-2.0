@@ -1,3 +1,7 @@
+## Acerca de este proyecto...
+
+Proyecto para obtener el clima mediante la consulta de una API en react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
